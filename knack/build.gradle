@@ -1,0 +1,4 @@
+dependencies {
+    compile project(':suite-api')
+    runtime project(':suite-core')
+}

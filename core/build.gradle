@@ -1,0 +1,4 @@
+dependencies {
+    compile project(':suite-shared')
+    compile project(':suite-api')
+}
